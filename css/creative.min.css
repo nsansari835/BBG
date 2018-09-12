@@ -17,6 +17,10 @@ body,html{width:100%;height:100%}body{font-family:Merriweather,'Helvetica Neue',
     background-color: white;
     margin-top: 70px;
   }
+  .sidelogin {
+    margin-left: 10px;
+    background-color: #ee4b28;  
+  }
   
   /* Hide the images by default */
   .mySlides {
